@@ -1,6 +1,6 @@
 {
   "name": "webgl-debug",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WebGL Debug Utils",
   "main": "index.js",
   "license": "MIT",
