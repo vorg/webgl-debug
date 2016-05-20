@@ -1,0 +1,29 @@
+{
+  "name": "webgl-debug",
+  "version": "1.0.0",
+  "description": "WebGL Debug Utils",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Marcin Ignac",
+    "email": "marcin.ignac@gmail.com",
+    "url": "https://github.com/vorg"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "webgl,",
+    "debugging"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vorg/webgl-debug.git"
+  },
+  "homepage": "https://github.com/vorg/webgl-debug",
+  "bugs": {
+    "url": "https://github.com/vorg/webgl-debug/issues"
+  }
+}
