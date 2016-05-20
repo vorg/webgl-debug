@@ -951,3 +951,4 @@ return {
 
 }();
 
+module.exports = WebGLDebugUtils;
