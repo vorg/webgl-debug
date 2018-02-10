@@ -638,7 +638,6 @@ function resetToInitialState(ctx) {
 
 function makeLostContextSimulatingCanvas(canvas) {
   var unwrappedContext_;
-  var wrappedContext_;
   var onLost_ = [];
   var onRestored_ = [];
   var wrappedContext_ = {};
