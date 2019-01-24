@@ -25,7 +25,7 @@
 
 // Various functions for helping debug WebGL apps.
 
-WebGLDebugUtils = function() {
+const WebGLDebugUtils = function() {
 var window
 
 //polyfill window in node
